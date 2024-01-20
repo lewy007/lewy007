@@ -1,5 +1,17 @@
 <p align="center"><b>Hi👋! I'm Peter, an ambitious and reliable employee of the IT section in the army👨‍💻. I live in Szczecin, Poland. Below u can see my statistics📈.</b></p>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lewy007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewy007&layout=compact&theme=dark&hide_border=true" height="121"/>
+  <img src="https://streak-stats.demolab.com?user=lewy007&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j M[ Y]" height="121" alt="streak graph"  />
+</div>
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewy007)](https://github.com/lewy007/github-readme-stats)
+
 ##
 
 <h4 align="center">Tech stack that I know and practice</h4>
@@ -40,4 +52,3 @@
             ⚡ Fun fact: I like chess.
         </ul>
     </h4>
-
