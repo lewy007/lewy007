@@ -1,4 +1,4 @@
-<p align="center"><b>Hi👋! I'm Peter, an ambitious and reliable soldier of the IT section in the army👨‍💻. I live in Szczecin, Poland. Below u can see my statistics📈.</b></p>
+<p align="center"><b>Hi👋! I'm Peter, an ambitious and reliable soldier of the IT section in the army. I live in Szczecin, Poland. Below u can see my statistics📈.</b></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lewy007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="121" alt="stats graph"  />
