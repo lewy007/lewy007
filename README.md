@@ -7,8 +7,11 @@
 </div>
 
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewy007)](https://github.com/lewy007/github-readme-stats)
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=lewy007" />
+  </a>
+</p>
 
 ##
 
@@ -18,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,linux,html,css,maven,gradle" />
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,hibernate,maven,gradle,docker,postgres,git,github,linux,html,css,powershell" />
   </a>
 </p>
 
